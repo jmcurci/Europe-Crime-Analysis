@@ -13,7 +13,7 @@ Rather than attempting to establish causality, the project focuses on identifyin
 The interactive Tableau dashboards summarize the main findings of the analysis and allow users to explore immigration and crime trends across Europe.
 
 <p align="center">
-  <img src="images/dashboard1.png" width="900">
+  <img src="images/Dashboard1.png" width="900">
 </p>
 
 ## 🛠️ Technologies
@@ -115,7 +115,7 @@ Instead, immigration trends and crime indicators appeared to evolve independentl
 A second dashboard provides additional visualizations of homicide and rape trends, complementing the exploratory analysis presented in the main dashboard.
 
 <p align="center">
-  <img src="images/dashboard2.png" width="900">
+  <img src="images/Dashboard2.png" width="900">
 </p>
 
 ## 📊 Tableau Dashboard
